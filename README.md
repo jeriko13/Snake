@@ -1,2 +1,2 @@
 # Snake
-Game Snack with python
+Game Snake with python
