@@ -1,7 +1,7 @@
-/*
- Original Code Credits: Chris DeLeon of HomeTeam GameDev 
- Modified by: Yakko Majuri
-*/
+
+ 
+
+
 
 'use strict'
 
